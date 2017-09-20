@@ -1,1 +1,1 @@
-[预览](http://htmlpreview.github.com/?github.com/smProgramer/my-database)
+[预览](GitHub & BitBucket HTML Previewgithub.com/smProgramer/my-database)
