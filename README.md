@@ -1,1 +1,1 @@
-[预览](https://github.com/smProgramer/my-database)
+[预览](http://htmlpreview.github.com/?github.com/smProgramer/my-database)
